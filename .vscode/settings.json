@@ -1,0 +1,9 @@
+{
+    "editor.formatOnSave": true, // auto format file when click save for readability
+    "editor.codeActionsOnSave": {
+      "source.fixAll": "always",
+      "source.organizeImports": "always",
+      "source.sortMembers": "always"
+    }
+  }
+  
