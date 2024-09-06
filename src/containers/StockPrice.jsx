@@ -51,7 +51,7 @@ const StockPrice = () => {
         width: "100%",
         height: "100%",
         background: appTheme.palette.background.default,
-        padding: "0px !important",
+        padding: "0px 24px",
       }}
     >
       <Box>
